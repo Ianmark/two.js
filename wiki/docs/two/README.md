@@ -2329,7 +2329,7 @@ __Returns__: Two.LinearGradient
 
 <div class="description">
 
-Creates a Two.js linear gradient and ads it to the scene. In the case of an effect it's added to an invisible "definitions" group.
+Creates a Two.js linear gradient and adds it to the scene. In the case of an effect it's added to an invisible "definitions" group.
 
 </div>
 
@@ -2392,7 +2392,7 @@ __Returns__: Two.RadialGradient
 
 <div class="description">
 
-Creates a Two.js linear-gradient object and ads it to the scene. In the case of an effect it's added to an invisible "definitions" group.
+Creates a Two.js linear-gradient object and adds it to the scene. In the case of an effect it's added to an invisible "definitions" group.
 
 </div>
 
